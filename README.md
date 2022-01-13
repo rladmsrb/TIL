@@ -22,3 +22,4 @@ $ git push origin master
 
 복습 꼭 해주기
 
+# git clone 주소
