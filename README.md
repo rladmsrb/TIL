@@ -11,3 +11,11 @@ $ git remote add origin https://github.com/rladmsrb/TIL.git
 ```
 $ git remote -v
 ```
+
+### git push
+
+```
+$ git push origin master
+```
+
+원격 저장소에서 수정작업을 하지 않는다
